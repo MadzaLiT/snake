@@ -1,0 +1,15 @@
+C:\Git_Repo\snake\Snake\Snake\bin\Debug\net6.0\Snake.exe
+C:\Git_Repo\snake\Snake\Snake\bin\Debug\net6.0\Snake.deps.json
+C:\Git_Repo\snake\Snake\Snake\bin\Debug\net6.0\Snake.runtimeconfig.json
+C:\Git_Repo\snake\Snake\Snake\bin\Debug\net6.0\Snake.dll
+C:\Git_Repo\snake\Snake\Snake\bin\Debug\net6.0\Snake.pdb
+C:\Git_Repo\snake\Snake\Snake\obj\Debug\net6.0\Snake.csproj.AssemblyReference.cache
+C:\Git_Repo\snake\Snake\Snake\obj\Debug\net6.0\Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git_Repo\snake\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfoInputs.cache
+C:\Git_Repo\snake\Snake\Snake\obj\Debug\net6.0\Snake.AssemblyInfo.cs
+C:\Git_Repo\snake\Snake\Snake\obj\Debug\net6.0\Snake.csproj.CoreCompileInputs.cache
+C:\Git_Repo\snake\Snake\Snake\obj\Debug\net6.0\Snake.dll
+C:\Git_Repo\snake\Snake\Snake\obj\Debug\net6.0\refint\Snake.dll
+C:\Git_Repo\snake\Snake\Snake\obj\Debug\net6.0\Snake.pdb
+C:\Git_Repo\snake\Snake\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
+C:\Git_Repo\snake\Snake\Snake\obj\Debug\net6.0\ref\Snake.dll
